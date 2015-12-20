@@ -1,0 +1,2 @@
+# Ignore all QLite databases
+db/*.sqlite3
