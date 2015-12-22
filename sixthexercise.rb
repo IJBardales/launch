@@ -1,0 +1,1 @@
+# The show variable found in line 3 is not found outside its scope
